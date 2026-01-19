@@ -13,16 +13,15 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ## Identificación de la Actividad
 
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** 2526-u4-4-2-poo-i-DylaanBH9
+- **Módulo:** PROG
+- **Unidad de Trabajo:** UD 4 - Programación orientada a objetos
+- **Fecha de Creación:** 18/01/26
+- **Fecha de Entrega:** 19/01/26
 - **Alumno(s):**
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
-
+    - **Nombre y Apellidos:** Dylan Bauti Huelva
+    - **Correo electrónico:** dbauhue1708@g.educaand.es
+    - **Iniciales del Alumno/Grupo:** DBH
 ## Descripción de la Actividad
 
 [Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
