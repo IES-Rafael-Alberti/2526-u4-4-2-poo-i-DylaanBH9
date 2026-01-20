@@ -6,7 +6,7 @@ fun main() {
         val cocheValido = Coche("Rojo", "toyota", "yaris", 100, 5, "1234ABC")
         println(cocheValido)
     } catch (e: IllegalArgumentException) {
-        println("   Error inesperado: ${e.message}")
+        println("ERROR: ${e.message}")
     }
 
     try {
